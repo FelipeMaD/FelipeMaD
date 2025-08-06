@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas<br>📚 Estudando Desenvolvimento Web (Front/Back)<br>🎨 Experiência com Design Gráfico<br>💻 Interesse na área Front-End<br>📢 Soft-Skills<br>🧿 23y<br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Desenvolvimento Web (Front/Back)<br>🎨 Experiência com Design Gráfico<br>💻 Interesse na área Front-End<br>📢 Soft-Skills<br>🧿 23y<br>
 
 
 ## 🌐 Socials:

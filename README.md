@@ -15,7 +15,7 @@
 ### ✍️ Citação
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Rep
 ![](https://github-contributor-stats.vercel.app/api?username=FelipeMaD&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---

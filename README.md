@@ -1,4 +1,4 @@
-#  About Me:
+# 🫆 About Me:
 👷 Desenvolvedor Front-End JÚNIOR em: UNIFIP - Centro Universitário <br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Desenvolvimento Web (Front/Back)<br>🎨 Experiência com Design Gráfico<br>💻 Interesse na área Front-End<br> 📢 Soft-Skills<br>🧿 24y<br>
 
 ## 🌐 Socials:
